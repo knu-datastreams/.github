@@ -34,14 +34,33 @@
 <img width="614" alt="image" src="https://github.com/user-attachments/assets/7ef069af-a3e2-47c5-9495-72d4b7e8d87a" />
 
 ## 구현 방식
-- 앱 : 
-- 프론트 배포 : 
+- 앱 : Kotlin, RoomDB, JetPack Compose
+- 프론트 배포 : Google PlayStore
 - 백엔드 : SpringBoot, JPA, MySQL
 - 백엔드 배포 : docker, kubernetes, git action, rasberry pi 4
 - AI : LangChain4j, OpenAI
 ---
 
 ## 구현 사진
+
+- 앱 초기 구동 프로필 설정
+<img width="1277" alt="스크린샷 2025-06-04 오후 7 47 25" src="https://github.com/user-attachments/assets/d4d585fa-54ac-4bfa-afad-055e8034bf25" />
+
+- 사용자 포트폴리오 추가
+<img width="1284" alt="스크린샷 2025-06-04 오후 7 48 28" src="https://github.com/user-attachments/assets/63623b30-fa78-4e3f-876e-e417d05a8fcf" />
+
+- 포트폴리오 자산 흐름 및 손익분석
+<img width="644" alt="스크린샷 2025-06-04 오후 7 50 15" src="https://github.com/user-attachments/assets/4c9d4fa8-9c52-4287-b30c-ac958638427a" />
+
+- 포트폴리오 기반 생성된 레포트 확인
+<img width="960" alt="스크린샷 2025-06-04 오후 7 54 45" src="https://github.com/user-attachments/assets/25d3ab7a-b519-46d3-a2d2-0b72f4363ae1" />
+
+- 커뮤니티, 뉴스 알림
+<img width="643" alt="스크린샷 2025-06-04 오후 7 56 09" src="https://github.com/user-attachments/assets/f4a58cc1-db4b-4369-8f22-6af637ea1c8f" />
+
+
+
+
 
 ---
 
